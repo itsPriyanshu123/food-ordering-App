@@ -1,0 +1,17 @@
+.logo{
+    height:60px !important;
+
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list_items{
+    display: flex;
+}
+li{
+    margin-left:22px;
+    list-style-type: none;
+}

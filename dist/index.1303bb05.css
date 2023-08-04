@@ -1,0 +1,19 @@
+.logo {
+  height: 60px !important;
+}
+
+.header {
+  justify-content: space-between;
+  display: flex;
+}
+
+.list_items {
+  display: flex;
+}
+
+li {
+  margin-left: 22px;
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=index.1303bb05.css.map */
